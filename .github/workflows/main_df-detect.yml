@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DF-DETECT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBCB19E90C4940C3869031652D1C66F5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FF83FC4EB8242CB9DA03BEA2033807A }}
